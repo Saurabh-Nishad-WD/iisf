@@ -22,7 +22,7 @@ const HomePage = () => {
 
         {/* Club Name and Description */}
         <div className="text-center max-w-2xl space-y-4">
-          <h1 className="text-4xl font-extrabold">Programming Club</h1>
+          <h1 className="text-4xl font-extrabold">Programming And Tech Skill Club</h1>
           <p className="text-gray-400">
             Welcome to the Programming Club — a vibrant community of creative minds and passionate learners.
           </p>

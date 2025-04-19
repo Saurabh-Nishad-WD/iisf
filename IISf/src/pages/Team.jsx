@@ -11,7 +11,7 @@ import img8 from "../data/ppp8.jpg";
 
 const Team = () => {
   return (
-    <div className="flex flex-wrap justify-center gap-6 p-8">
+    <div className="flex flex-wrap justify-center gap-6 p-8 bg-gray-900">
     {/* Example Candidate Cards */}
     <CandidateCard 
       image={img1}
